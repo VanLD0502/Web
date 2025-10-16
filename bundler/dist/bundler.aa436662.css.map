@@ -1,0 +1,1 @@
+{"mappings":"ACAA;;;;ACAA","sources":["f47cf03caa436662","src/assets/style.css","src/assets/style.scss"],"sourcesContent":["@import \"c56095b4800b895e\";\n@import \"f89002abbe292e7f\";\n","h1 {\n    color: green;\n}",".content h2 {\r\n    color: yellow;\r\n}"],"names":[],"version":3,"file":"bundler.aa436662.css.map","sourceRoot":"/__parcel_source_root/"}
